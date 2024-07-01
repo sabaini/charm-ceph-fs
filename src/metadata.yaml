@@ -11,10 +11,7 @@ tags:
 - file-servers
 - misc
 series:
-- focal
-- jammy
-- lunar
-- mantic
+- noble
 subordinate: false
 requires:
   ceph-mds:
